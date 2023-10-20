@@ -1,0 +1,9 @@
+﻿Guest
+1
+permsid=i_group_auto_update_type permvalue=10 permnegated=0 permskip=0|permsid=i_group_needed_modify_power permvalue=75 permnegated=0 permskip=0
+Leader
+1
+permsid=b_group_is_permanent permvalue=1 permnegated=0 permskip=0|permsid=i_group_modify_power permvalue=55 permnegated=0 permskip=0|permsid=i_group_needed_modify_power permvalue=75 permnegated=0 permskip=0|permsid=i_group_member_add_power permvalue=44 permnegated=0 permskip=0|permsid=i_group_needed_member_add_power permvalue=44 permnegated=0 permskip=0|permsid=i_group_member_remove_power permvalue=44 permnegated=0 permskip=0|permsid=i_group_needed_member_remove_power permvalue=44 permnegated=0 permskip=0|permsid=b_client_is_priority_speaker permvalue=1 permnegated=0 permskip=0
+Mute
+1
+permsid=i_group_needed_modify_power permvalue=50 permnegated=0 permskip=0|permsid=i_group_needed_member_add_power permvalue=44 permnegated=0 permskip=0|permsid=i_group_needed_member_remove_power permvalue=44 permnegated=0 permskip=0|permsid=i_client_talk_power permvalue=-1 permnegated=0 permskip=0
