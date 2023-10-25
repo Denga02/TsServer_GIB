@@ -25,3 +25,7 @@ do
   perform_action $message
   sleep 1
 done
+
+# Ts bot for GIB (installed with systemd) is running: PID:673, Wrapper:STARTED, Java:STARTED
+# Ts bot for GIB (installed with systemd) is not running.
+
